@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paragal
-- 👀 I’m interested in Formula 1, Game Development, and 
-- 🌱 I’m currently learning Python and Go
+- 👀 I’m interested in Formula 1, Game Development, and learning new career paths
+- 🌱 I’m currently learning Python
 - 📫 How to reach me: Discord @paragal
 
 <!---
